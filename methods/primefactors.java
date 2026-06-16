@@ -1,8 +1,8 @@
 import java.util.*;
-class primeFactors
+class printFactors
 {
 	static Scanner sc= new Scanner(System.in);
-	public static void primeFactors(int n)
+	public static void printFactors(int n)
 	{
 		for (int i=1;i<=n/2 ;i++ )
 		{
